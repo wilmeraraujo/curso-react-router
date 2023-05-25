@@ -1,0 +1,7 @@
+--crear proyecto
+npx create-react-app nombredelproyecto
+--instalar React router ROM 6
+npm install --save react-router-dom@6
+--6 componentes de navegacion
+--7 Link vs NavLink
+--8
