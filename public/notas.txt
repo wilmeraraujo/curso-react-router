@@ -4,4 +4,8 @@ npx create-react-app nombredelproyecto
 npm install --save react-router-dom@6
 --6 componentes de navegacion
 --7 Link vs NavLink
---8
+--8 useParams: rutas dinamicas
+--9 useNavigate: historial de navegacion
+--10 outlet:nested routes
+--11 useAuth: login y logout
+--12 
